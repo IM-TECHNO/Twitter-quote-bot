@@ -37,9 +37,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
@@ -54,4 +52,9 @@
 <br />
 
 ----
+
+<br>
+
+Get your Tokens and Keys from : [Twitter Developer Portal](https://developer.twitter.com/en)
+Enter those into the specified fields and that's it ! You're Done !
 
